@@ -1,7 +1,7 @@
 
 # Project Name: Psycure Organization
 
-live site link [Create React App](https://elastic-wilson-6d3a27.netlify.app/).
+live site link [https://elastic-wilson-6d3a27.netlify.app/](https://elastic-wilson-6d3a27.netlify.app/).
 
 ## Teachnology used
 
