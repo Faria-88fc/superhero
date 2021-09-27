@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1270px;
+    margin: auto;
+    margin-top: 40px;
+    
+    /* border: 1px solid red; */
+}

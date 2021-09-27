@@ -1,0 +1,7 @@
+.members{
+    width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 40px;
+    /* justify-content: space-between; */
+}

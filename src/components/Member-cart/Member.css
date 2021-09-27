@@ -1,0 +1,28 @@
+.member-container{
+    box-shadow: 8px 5px 5px 5px rgb(235, 245, 235);
+    margin: 15px;
+    padding: 10px;
+    text-align: start;
+    font-weight: 400;
+    border-radius: 5px;
+    line-height: 0.5;
+}
+.member-container h2{
+    line-height: 1;
+}
+.member-container button{
+    background-color: seagreen;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 40px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.member-container img{
+    width: 80%;
+    height: 50%;
+    border-radius: 50%;
+
+}

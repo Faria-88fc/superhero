@@ -1,0 +1,20 @@
+.header{
+    margin: auto;
+    width: 95%;
+}
+
+.title{
+    background-color: rgb(53, 211, 53);
+    color: rgb(80, 11, 11);
+    padding: 20px;
+    border-radius: 4px;
+    
+}
+.title h1{
+    margin-bottom: 0;
+}
+.title small {
+    margin-left: 450px;
+    line-height: 10px;
+    
+}
