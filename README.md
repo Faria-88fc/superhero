@@ -1,12 +1,13 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Name: Psycure Organization
 
-## Available Scripts
+live site link [Create React App](https://elastic-wilson-6d3a27.netlify.app/).
 
-In the project directory, you can run:
+## Teachnology used
 
-### `npm start`
+React, Javascript 
+
+<!-- ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -67,4 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+# Features
+this is a community work for mental health.
+Here you can get services easily from most skilled professionals.
+just select what kind of help you want for you and confirn it just by a simple click!

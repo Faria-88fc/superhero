@@ -12,7 +12,7 @@ const Members = () => {
     return (
         <div className='members'>
             {
-                members.map(member=> <Member member={member}></Member>)
+                members.map(member=> <Member key={member.id} member={member}></Member>)
             }
             
         </div>
