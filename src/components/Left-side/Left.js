@@ -6,7 +6,7 @@ import './Left.css';
 const Left = () => {
     return (
         <div className='Left-section'>
-            <h2 className='h'>Honorable members!</h2>
+            <h2 className='h'>Honorable Team members</h2>
             <Members></Members>
             
             

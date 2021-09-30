@@ -5,7 +5,7 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import './Member.css'
 
 const Member = (props) => {
-    // console.log(props.member)
+    // console.log(props)
     const {img,name,role,position,takePerSession,experience}= props.member;
     const element = <FontAwesomeIcon icon={faShoppingCart} />
     return (
@@ -16,7 +16,7 @@ const Member = (props) => {
             <h3>Position: {position}</h3>
             <h3>Experience: {experience}</h3>
             <h3>Fee Per Session: {takePerSession}</h3>
-            <button> {element} Add </button>
+            <button onClick = {() => props.addtoCart (props.member)}>{element} Add </button>
         </div>
     );
 };
